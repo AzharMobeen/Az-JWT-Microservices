@@ -1,6 +1,6 @@
 # Az-JWT-Microservice
 * I have created three microservices:
-    - `az-jwt-example` for required assignment.
+    - `az-jwt-example` for main microservice along with TDD.
     - `az-jwt-example-test` for BDD testing.
     - `az-jwt-example-client` for client (not completed fully)
 * I have used `H2` in memory DB to have one user detail so that we can easily test functionality.
